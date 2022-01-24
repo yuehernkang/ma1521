@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkma_1521=self.webpackChunkma_1521||[]).push([[794],{6562:function(e){e.exports=JSON.parse('{"permalink":"/ma1521/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
