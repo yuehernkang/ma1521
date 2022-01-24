@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkma_1521=self.webpackChunkma_1521||[]).push([[435],{7560:function(a){a.exports=JSON.parse('{"allTagsPath":"/ma1521/blog/tags","slug":"/ma1521/blog/tags/hello","name":"hello","count":2,"permalink":"/ma1521/blog/tags/hello"}')}}]);
